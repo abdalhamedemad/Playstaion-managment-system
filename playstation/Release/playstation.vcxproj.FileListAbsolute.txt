@@ -1,0 +1,16 @@
+E:\CMP2024\projects\playstation\playstation\Release\playstation.MyForm.resources
+E:\CMP2024\projects\playstation\playstation\Release\playstation.vcxproj.GenerateResource.cache
+E:\CMP2024\projects\playstation\playstation\Release\playstation.vcxproj.AssemblyReference.cache
+G:\playstation\playstation\Release\playstation.vcxproj.AssemblyReference.cache
+G:\playstation\playstation\Release\playstation.MyForm.resources
+G:\playstation\playstation\Release\playstation.vcxproj.GenerateResource.cache
+E:\work\playstation\playstation\Release\playstation.vcxproj.AssemblyReference.cache
+E:\work\playstation\playstation\Release\playstation.MyForm.resources
+E:\work\playstation\playstation\Release\playstation.vcxproj.GenerateResource.cache
+E:\CMP2024\cmp2024\playstation\playstation\Release\playstation.MyForm.resources
+E:\CMP2024\cmp2024\playstation\playstation\Release\playstation.vcxproj.GenerateResource.cache
+C:\Users\medoa\Desktop\playstation\playstation\Release\playstation.MyForm.resources
+C:\Users\medoa\Desktop\playstation\playstation\Release\playstation.vcxproj.GenerateResource.cache
+C:\Users\medoa\Desktop\playstationnow\playstation\Release\playstation.vcxproj.AssemblyReference.cache
+C:\Users\medoa\Desktop\playstationnow\playstation\Release\playstation.MyForm.resources
+C:\Users\medoa\Desktop\playstationnow\playstation\Release\playstation.vcxproj.GenerateResource.cache

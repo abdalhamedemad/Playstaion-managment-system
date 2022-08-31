@@ -1,0 +1,18 @@
+﻿  MyForm.cpp
+C:\Users\medoa\Desktop\playstationnow\playstation\MyForm.h(4436,13): warning C4101: 'x': unreferenced local variable
+C:\Users\medoa\Desktop\playstationnow\playstation\MyForm.h(4511,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\medoa\Desktop\playstationnow\playstation\MyForm.h(4530,13): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\medoa\Desktop\playstationnow\playstation\MyForm.h(4980,22): warning C4101: 'ex': unreferenced local variable
+C:\Users\medoa\Desktop\playstationnow\playstation\MyForm.h(6182,18): warning C4101: 'ex': unreferenced local variable
+C:\Users\medoa\Desktop\playstationnow\playstation\MyForm.h(6257,22): warning C4101: 'ex': unreferenced local variable
+C:\Users\medoa\Desktop\playstationnow\playstation\MyForm.h(6773,8): warning C4101: 'x': unreferenced local variable
+C:\Users\medoa\Desktop\playstationnow\playstation\MyForm.h(6803,21): warning C4101: 'ex': unreferenced local variable
+C:\Users\medoa\Desktop\playstationnow\playstation\MyForm.h(6974,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\medoa\Desktop\playstationnow\playstation\MyForm.h(6975,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\medoa\Desktop\playstationnow\playstation\MyForm.h(6981,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\medoa\Desktop\playstationnow\playstation\MyForm.h(6982,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\medoa\Desktop\playstationnow\playstation\MyForm.h(6984,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\medoa\Desktop\playstationnow\playstation\MyForm.cpp(41,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\medoa\Desktop\playstationnow\playstation\MyForm.h(6779): warning C4700: uninitialized local variable 'totalmoneypermonth' used
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  playstation.vcxproj -> C:\Users\medoa\Desktop\playstationnow\Release\playstation.exe

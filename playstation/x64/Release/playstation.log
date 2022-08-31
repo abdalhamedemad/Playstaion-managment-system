@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+E:\CMP2024\projects\playstation\playstation\MyForm.h(2817,13): warning C4101: 'x': unreferenced local variable
+E:\CMP2024\projects\playstation\playstation\MyForm.h(3276,8): warning C4101: 'x': unreferenced local variable
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Generating Code...
+E:\CMP2024\projects\playstation\playstation\MyForm.h(3282): warning C4700: uninitialized local variable 'totalmoneypermonth' used
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  playstation.vcxproj -> E:\CMP2024\projects\playstation\x64\Release\playstation.exe

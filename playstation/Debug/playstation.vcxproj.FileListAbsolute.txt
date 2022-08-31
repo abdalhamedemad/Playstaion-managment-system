@@ -1,0 +1,6 @@
+C:\Users\medoa\source\repos\playstation\playstation\Debug\playstation.vcxproj.AssemblyReference.cache
+C:\Users\medoa\source\repos\playstation\playstation\Debug\playstation.MyForm.resources
+C:\Users\medoa\source\repos\playstation\playstation\Debug\playstation.vcxproj.GenerateResource.cache
+E:\CMP2024\projects\playstation\playstation\Debug\playstation.vcxproj.AssemblyReference.cache
+E:\CMP2024\projects\playstation\playstation\Debug\playstation.MyForm.resources
+E:\CMP2024\projects\playstation\playstation\Debug\playstation.vcxproj.GenerateResource.cache
